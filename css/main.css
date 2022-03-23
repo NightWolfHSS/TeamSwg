@@ -1,0 +1,44 @@
+/*
+* projtect TeamSwg
+* Bootstrtap v5
+* style breakpoint 
+*/
+
+header {
+	background: #412cc9;
+	height: 450px;
+}
+
+.logo {
+	/*padding-top: 10px;*/
+	color: white;
+}
+.logo>span>p {
+	color: #ef7147;
+	/*padding:10px 0;*/
+}
+.main_header {
+	background: #ddbf44;
+	height: 400px;
+}
+/* < 576px */
+@media (max-width: 575.98px) { 
+
+}
+
+/* 575px */)
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+}
+
+/* 768px */ 
+@media (min-width: 768px) and (max-width: 991.98px) { 
+}
+
+/* 992px */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+}
+
+/* 1200px */
+@media (min-width: 1200px) { 
+}

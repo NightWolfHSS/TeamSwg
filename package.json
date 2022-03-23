@@ -1,0 +1,19 @@
+{
+  "name": "teamswg",
+  "version": "1.0.0",
+  "description": "just simple magazine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TeamSwg",
+    "magazie",
+    "simple"
+  ],
+  "author": "Slavik",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
