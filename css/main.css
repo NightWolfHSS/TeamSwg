@@ -14,13 +14,28 @@ header {
 	color: white;
 }
 .logo>span>p {
-	color: #ef7147;
+	color: silver;
 	/*padding:10px 0;*/
 }
 .main_header {
 	background: #ddbf44;
 	height: 400px;
 }
+main {
+	background: white;
+}
+.content {
+
+	margin-top: 150px;
+	/*padding: 200px 0;*/
+	background: silver;
+}
+#footer {
+	height: 200px;
+	background: #412cc9;
+}
+
+
 /* < 576px */
 @media (max-width: 575.98px) { 
 
