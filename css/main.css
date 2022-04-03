@@ -10,22 +10,65 @@ header {
 }
 
 .logo {
-	/*padding-top: 10px;*/
+	font-family: Calibri;
 	color: white;
 }
 .logo>span>p {
-	color: silver;
-	/*padding:10px 0;*/
+	color: white;
 }
 .main_header {
 	background: #ddbf44;
 	height: 400px;
 }
+
+
+.search {
+	background: #412cc9;
+}
+.search>p {
+	color: white;
+	padding: 10px 5px;
+}
+
+
+/*content*/
 main {
 	background: white;
 }
-.content {
 
+.wp_content {
+	display: flex;
+	height: 2000px;
+	background: silver;
+	margin-top: 150px;
+}
+
+.main_top {
+	height: 1200px;
+}
+/*content*/
+.main_content {
+	width: 80%;
+	background: blue;
+}
+
+/*sidebare*/
+.right_bar {
+	width: 20%;
+	background: green;
+}
+/*end content*/
+
+/*banner advertising*/
+.b_block {
+	background: pink;
+	height: 500px;
+	margin: 50px 0;
+}
+.block_one {
+	background: orange;
+}
+.content {
 	margin-top: 150px;
 	/*padding: 200px 0;*/
 	background: silver;
